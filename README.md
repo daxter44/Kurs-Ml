@@ -2,15 +2,28 @@
 Kurs Machine Learning wykupiony w  eduzo.pl / chmurowisko.pl.
 Według autorów program przygotuje mnnie do praktycznego wykorzystywania Machine Learning, Deep Learning i sieci neuronowych.
 Kurs składa się z 12 tygodni. 
+
 TYDZIEŃ 1: PLAN GRY
+
 TYDZIEŃ 2: MACHINE LEARNING- PODSTAWY
+
 TYDZIEŃ 3: MACHINE LEARNING- PODSTAWY CZ. 2
+
 TYDZIEŃ 4: REGRESJA LINIOWA
+
 TYDZIEŃ 5: DRZEWA DECYZYJNE
+
 TYDZIEŃ 6: METODA K-ŚREDNICH ORAZ WEKTORÓW NOŚNYCH (SVM)
+
 TYDZIEŃ 7: SIECI NEURONOWE
+
 TYDZIEŃ 8: SIECI NEURONOWE CZĘŚĆ 2
+
 TYDZIEŃ 9: DEEP LEARNING i NLP
+
 TYDZIEŃ 10: KONWOLUCYJNE SIECI NEURONOWE (CNN)
+
 TYDZIEŃ 11: PRZEGLĄD ROZWIĄZAŃ CHMUROWYCH DLA ML
+
 TYDZIEŃ 12: PODSUMOWANIE KURSU.
+
